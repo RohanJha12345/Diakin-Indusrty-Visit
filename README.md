@@ -18,12 +18,14 @@ This repository contains insights and learnings from my industry visit to the Da
 
 Daikin is a global leader in HVAC (Heating, Ventilation, and Air Conditioning) solutions, known for its energy-efficient products.
 
+
 🌟 **Neemrana Plant Highlights**
 
 Largest AC unit in India, established in 2009
 1.2 million units produced annually
 Automation-driven production with cutting-edge technology
 Sustainability-focused operations adhering to global standards
+
 
 🎯 **Objectives of the Visit**
 
@@ -34,6 +36,7 @@ Sustainability-focused operations adhering to global standards
 ✔ Gain insights into supply chain & inventory management
 
 ✔ Explore Daikin’s sustainability initiatives
+
 
 📌**Key Learnings**
 
@@ -47,6 +50,7 @@ Sustainability-focused operations adhering to global standards
 
 ✅ Career Insights: Exposure to roles in manufacturing, operations, and marketing
 
+
 🔥 **Personal Experience**
 
 🔹 Real-world exposure: Bridging the gap between theory and practical application
@@ -55,6 +59,7 @@ Sustainability-focused operations adhering to global standards
 
 🔹 Workforce Excellence: Highly skilled professionals ensuring quality & efficiency
 
+
 📈 **How This Visit Benefits My Career**
 
 🚀 Industry Knowledge: Deep understanding of manufacturing & automation
@@ -62,6 +67,8 @@ Sustainability-focused operations adhering to global standards
 🌍 Sustainability Awareness: Green technology & environmental responsibility
 
 🤝 Networking Opportunities: Interaction with industry experts
+
+
 
 📂 **Repository Contents**
 
